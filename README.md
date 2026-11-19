@@ -1,3 +1,5 @@
+[English](README.md) | [Português](README.pt.md)
+
 ## Manzirobotics 🌊🤖
 
 **Humanlike robots for aquatic environments.** We build AI-powered humanoid water robots for rescue operations and underwater exploration, from Zambezia, Mozambique.
